@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 body
 {
-=======
-body{
->>>>>>> 0fd105dea3bcafb7bfe4569a4179f4d6dff4062b
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -12,7 +8,6 @@ body{
     padding: 0;
 }
 
-<<<<<<< HEAD
 #cabecera
 {
     background: #33A;
@@ -25,29 +20,13 @@ body{
 
 #cabecera #tagline
 {
-=======
-#cabecera{
-    background: #33A;
-    box-shadow: 0px 5px 30px 0px rgba(0,0,0, 0.5);
-    color: white;
-    font-weight: bold;
-    margin: 0;
-    padding: 0, 5em;
-}
-
-#cabecera #tagline{
->>>>>>> 0fd105dea3bcafb7bfe4569a4179f4d6dff4062b
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
 }
 
-<<<<<<< HEAD
 #container
 {
-=======
-#container{
->>>>>>> 0fd105dea3bcafb7bfe4569a4179f4d6dff4062b
     width: 70%;
     padding: 0;
     text-align: left;
@@ -55,19 +34,11 @@ body{
     margin: 0 auto;
 }
 
-<<<<<<< HEAD
 #container h1
 {
     font-size: 20px;
 }
 #post
 {
-=======
-#container h1{
-    font-size: 20px;
-}
-
-#post{
->>>>>>> 0fd105dea3bcafb7bfe4569a4179f4d6dff4062b
     padding: 1em;
 }
